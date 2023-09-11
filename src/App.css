@@ -37,6 +37,11 @@
   padding: 2em;
 }
 
+.ListItem{
+  background-color: #FFFFFF;
+  color: black;
+}
+
 .read-the-docs {
   color: #888;
 }
